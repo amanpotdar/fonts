@@ -29,6 +29,7 @@ Free, open source git applications are available for [Windows](https://msysgit.g
 
 ## Licensing
 
+
 It is important to always read the license for every font that you use.
 Each font family directory contains the appropriate license file for the fonts in that directory. 
 The fonts files themselves also contain licensing and authorship metadata.
